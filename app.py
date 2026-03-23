@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("✈️ Air-India-Assistant-Rag-Chatbot)")
+st.title("✈️ Air-India-Assistant")
 
 st.markdown("Ask questions about Air India booking policies")
 
