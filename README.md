@@ -142,3 +142,6 @@ Aspiring AI Engineer
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+
+<img width="1847" height="973" alt="image" src="https://github.com/user-attachments/assets/8c339c85-6ce1-4456-a7db-782455a78726" />
+
