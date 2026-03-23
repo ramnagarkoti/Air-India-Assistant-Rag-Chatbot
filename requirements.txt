@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-text-splitters 
+langchain-openai 
+langchain-pinecone 
+pinecone-client 
+langchain-groq 
+python-dotenv 
+ragas 
+datasets 
+pypdf
+streamlit
+ipykernel
