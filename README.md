@@ -128,12 +128,6 @@ streamlit run app.py
 
 ---
 
-## 📜 License
-
-This project is for educational purposes.
-
----
-
 ## 👨‍💻 Author
 
 **Ram**
@@ -143,5 +137,8 @@ Aspiring AI Engineer
 
 ⭐ If you found this project useful, consider giving it a star!
 
-<img width="1847" height="973" alt="image" src="https://github.com/user-attachments/assets/8c339c85-6ce1-4456-a7db-782455a78726" />
+<img width="1863" height="997" alt="image" src="https://github.com/user-attachments/assets/c635d0be-94ad-407b-8924-c75f85a5bb33" />
+
+
+
 
